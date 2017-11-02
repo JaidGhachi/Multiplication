@@ -11,5 +11,7 @@ int main()
         printf("%d * %d = %d \n", n, i, n*i);
     }
     
+    printf("/nThis is the basic C program");
+    
     return 0;
 }
